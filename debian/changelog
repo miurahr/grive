@@ -1,0 +1,92 @@
+grive (0.3.0-1+git20120806~webupd8~precise1) precise; urgency=medium
+ 
+  * new git pull
+ 
+ -- Alin Andrei <webupd8@gmail.com>  Thu, 09 Aug 2012 14:10:24 +0300
+ 
+grive (0.3.0-1+git20120806~webupd8~quantal1) quantal; urgency=medium
+ 
+  * new git pull - build without bfd for quantal (commented out in libgrive/CMakeLists.txt)
+ 
+ -- Alin Andrei <webupd8@gmail.com>  Thu, 09 Aug 2012 14:09:13 +0300
+ 
+grive (0.3.0-1+git20120806~webupd8~quantal) quantal; urgency=medium
+ 
+  * new git pull - build without bfd for quantal (commented out in libgrive/CMakeLists.txt)
+ 
+ -- Alin Andrei <webupd8@gmail.com>  Thu, 09 Aug 2012 13:57:24 +0300
+ 
+grive (0.3.0-1+git20120806~webupd8~lucid) lucid; urgency=medium
+ 
+  * new git pull
+ 
+ -- Alin Andrei <webupd8@gmail.com>  Thu, 09 Aug 2012 13:55:14 +0300
+ 
+grive (0.2.0-1+git20120720~webupd8~lucid) lucid; urgency=medium
+ 
+  * new git pull
+ 
+ -- Alin Andrei <webupd8@gmail.com>  Fri, 20 Jul 2012 16:08:29 +0300
+ 
+grive (0.2.0-1+git20120711~webupd8~lucid) lucid; urgency=medium
+ 
+  * new git pull
+ 
+ -- Alin Andrei <webupd8@gmail.com>  Thu, 12 Jul 2012 13:07:05 +0300
+ 
+grive (0.2.0-1+git20120627~webupd8~lucid) lucid; urgency=medium
+ 
+  * new git pull
+ 
+ -- Alin Andrei <webupd8@gmail.com>  Thu, 28 Jun 2012 17:32:38 +0300
+ 
+grive (0.2.0-1+git20120626~webupd8~lucid) lucid; urgency=medium
+ 
+  * new git pull
+ 
+ -- Alin Andrei <webupd8@gmail.com>  Tue, 26 Jun 2012 12:13:02 +0300
+ 
+grive (0.2.0-1+git20120623~webupd8~natty) natty; urgency=medium
+
+  * new git pull
+
+ -- Alin Andrei <webupd8@gmail.com>  Mon, 25 Jun 2012 14:45:25 +0200
+
+grive (0.2.0-1+git20120617~webupd8~oneiric1) oneiric; urgency=medium
+
+  * new git pull
+  * new dependency: libboost-program-options-dev
+
+ -- Alin Andrei <webupd8@gmail.com>  Mon, 18 Jun 2012 14:45:25 +0200
+
+grive (0.2.0-1+git20120612~webupd8~precise1) precise; urgency=medium
+
+  * new git pull (bug fixes)
+
+ -- Alin Andrei <webupd8@gmail.com>  Mon, 12 Jun 2012 14:45:25 +0200
+
+grive (0.1.0-1+git20120607~webupd8~precise1) precise; urgency=medium
+
+  * new git pull (bug fixes)
+  * new libgcrypt11-dev dependency  
+
+ -- Alin Andrei <webupd8@gmail.com>  Thu, 07 Jun 2012 14:45:25 +0200
+
+grive (0.1.0-1+git20120601~webupd8~precise1) precise; urgency=medium
+
+  * new git pull
+
+ -- Alin Andrei <webupd8@gmail.com>  Sat, 01 Jun 2012 14:45:25 +0200
+
+grive (0.1.0-1+git20120531~webupd8~precise1) precise; urgency=medium
+
+  * new git pull
+  * added binutils-dev dependency
+
+ -- Alin Andrei <webupd8@gmail.com>  Sat, 31 May 2012 14:55:25 +0000
+
+grive (0.1.0-1+git20120522~webupd8~lucid) lucid; urgency=medium
+
+  * initial upload
+
+ -- Alin Andrei <webupd8@gmail.com>  Sat, 22 May 2012 14:55:25 +0000
